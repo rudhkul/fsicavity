@@ -92,3 +92,8 @@ export  PYTHONPATH=$PYTHONPATH:/usr/local/mbdyn/libexec/mbpy
 ```
 ## Furthermore, MBDyn Adapter should be downloaded for preCICE module so that OpenFOAM can be linked with it. This can be obtained from https://github.com/precice/mbdyn-adapter. There is a `setup.py' file in this adapter, which should be compiled by `sudo python setup.py install', by which the files are copied to the shared library..\\
 
+![](cell.gif)
+
+![](press.gif)
+
+![](vel.gif)
