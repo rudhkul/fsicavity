@@ -94,6 +94,6 @@ export  PYTHONPATH=$PYTHONPATH:/usr/local/mbdyn/libexec/mbpy
 
 ![](cell.gif)
 
-![](press.gif)
+![](pres.gif)
 
 ![](vel.gif)
